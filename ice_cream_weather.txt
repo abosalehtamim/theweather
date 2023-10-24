@@ -1,0 +1,27 @@
+        Location       Date  Avg Temperature (°C)     Sales € Favorite Flavor  \
+0      Amsterdam 2022-01-01                 11.60    0.000000             NaN   
+1      Amsterdam 2022-01-02                 11.40   82.980000         Vanilla   
+2      Amsterdam 2022-01-03                  9.40   91.070833           Mango   
+3      Amsterdam 2022-01-04                  6.40   11.880000         Vanilla   
+4      Amsterdam 2022-01-05                  5.50   75.880000         Vanilla   
+...          ...        ...                   ...         ...             ...   
+2185  Maastricht 2020-12-27                  7.90   82.594667           Mango   
+2186  Maastricht 2020-12-28                  8.50   82.110000           Lemon   
+2187  Maastricht 2020-12-29                  2.95  112.784000       Chocolate   
+2188  Maastricht 2020-12-30                  1.30  117.280000       Chocolate   
+2189  Maastricht 2020-12-31                 10.20    0.000000             NaN   
+
+      Quantity kg  
+0        0.000000  
+1       44.880326  
+2       49.256311  
+3        6.425383  
+4       41.040240  
+...           ...  
+2185    44.671915  
+2186    44.409780  
+2187    61.000032  
+2188    63.431726  
+2189     0.000000  
+
+[2190 rows x 6 columns]
